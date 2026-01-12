@@ -1,0 +1,10 @@
+{
+    "IP_ADRESSE": "192.168.1.59",
+    "PORT": "80",
+    "BENUTZERNAME": "admin",
+    "PASSWORT": "12345678",
+    "NAME_1": "IF Kamera",
+    "NAME_2": "CW Kamera",
+    "NAME_3": "CW Box",
+    "NAME_4": "Netzwerk"
+}
